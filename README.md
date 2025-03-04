@@ -7,4 +7,4 @@ delta_range = np.linspace(0, 10, 100)
 
 According to your prefrences
 
-NOTE: you need the matplotlib libary in order to run this code. you can use a website like: matplotlib.online in order to run it locally on your computer.
+NOTE: you need the matplotlib libary in order to run this code.
