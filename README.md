@@ -1,4 +1,7 @@
 # average-l-graph-creator
+
+Code for project in Coding and algorithms for memories course (236379) at the Technion.
+
 This is a python code for creating a graph of the average minimal l value using the first algorithm given in the project.
 
 In order to change the values of n and delta, you can change:
